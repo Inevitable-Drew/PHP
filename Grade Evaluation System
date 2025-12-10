@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Grade Evaluation System</title>
+</head>
+<body>
+    <h2>Grade Evaluation System</h2>
+    <form action = "Result.php" method="post">
+		Firstname: <input type="text" name="Firstname" placeholder="Enter your Firstname"><br>
+		Lastname: <input type="text" name="Lastname" placeholder="Enter your Lastname"><br>
+		StudentId: <input type="text" name="StudentId" placeholder="Enter your Student Number"><br>
+        Enter your grade (0-100): 
+        <input type="number" name="score" required>
+        <input type="submit" value="Enter">
+    </form>
+
+</body>
+</html>
