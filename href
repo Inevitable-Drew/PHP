@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		table,th,td{
+			border: 2px Solid black;
+			text-align: center;
+			border-collapse: collapse;
+		}
+		th{
+			color: pink;
+		}
+		td{
+			color: black;
+		}
+		body {
+			background-color: white;
+		}
+	</style>
+</head>
+
+<body>
+	<table width ="100%">
+		<tr>
+			<th>FIRSTNAME</th>
+			<th>LASTNANE</th>
+			<th>ID</th>
+		</tr>
+		<tr>
+			<td>Gil</td>
+			<td>Obed</td>
+			<td>123D</td>
+		</tr>
+		<tr>
+			<td>Johannes</td>
+			<td>Gil</td>
+			<td>456D</td>
+		</tr>
+	</table>
+
+	<p><a href="https://www.facebook.com/">
+		<img src="facebook.png" alt="Icon description" style="width: 100px;height: 100px; margin-left: 200px;"> 
+	<a href="https://www.youtube.com/">
+		<img src="youtube.png" alt="Icon description" style="width: 100px; height: 100px; margin-left:20px;" >
+	<a href="https://www.instagram.com/">
+		<img src="ig.png" alt="Icon description" style="width: 100px; height: 100px; margin-left:20px" >
+	<a href="https://google.com/">
+		<img src="google.png" alt="Icon description" style="width: 100px; height: 100px; margin-left:20px" >
+	<a href="https://www.roblox.com/">
+		<img src="roblox.png" alt="Icon description" style="width: 100px; height: 100px; margin-left:20px" >	
+	<a href="https://latest.favdojo.com/explore/?gbraid=0AAAABARGvMUKkQupNxHtnmKlWQOAhBpoi&gad_source=5&gad_campaignid=23052604500&gclid=EAIaIQobChMI5JPHo9-bkgMVa-cWBR3UZhE2EAEYASAAEgLazPD_BwE">
+		<img src="game.png" alt="Icon description" style="width: 100px; height: 100px; margin-left:20px" >	
+	<a href="https://www.w3schools.com/">
+		<img src="W3School.png" alt="Icon description" style="width: 100px; height: 100px; margin-left:20px" >
+	
+</body>
